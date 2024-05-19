@@ -1,6 +1,5 @@
 ### README
 
-```markdown
 # Escalator Simulation
 
 ## Descrição
